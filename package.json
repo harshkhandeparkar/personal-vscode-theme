@@ -1,0 +1,21 @@
+{
+  "name": "personal-theme",
+  "displayName": "personal-theme",
+  "description": "Personal VSCode theme, based on Monokai++",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Personal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Personal Theme-color-theme.json"
+      }
+    ]
+  }
+}

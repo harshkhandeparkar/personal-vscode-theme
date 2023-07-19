@@ -1,0 +1,16 @@
+{
+	"tokenColors": "./Monokai%2B%2B.tmTheme",
+	"colors": {
+		"editor.background": "#1c1c1c",
+		"editor.foreground": "#cccccc",
+		"editorCursor.foreground": "#cccccc",
+		"editorWhitespace.foreground": "#3a3a3b",
+		"editor.lineHighlightBackground": "#252526",
+		"editor.selectionBackground": "#59201b",
+		"editor.inactiveSelectionBackground": "#402725",
+		"editor.wordHighlightBackground": "#402725",
+		"editor.wordHighlightStrongBackground": "#402725",
+		"editorIndentGuide.background": "#3a3a3b"
+	},
+	"name": "Personal Theme"
+}
