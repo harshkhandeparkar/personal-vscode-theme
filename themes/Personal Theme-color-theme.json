@@ -1,5 +1,5 @@
 {
-	"tokenColors": "./Monokai%2B%2B.tmTheme",
+	"tokenColors": "./Monokai++.tmTheme",
 	"colors": {
 		"editor.background": "#1c1c1c",
 		"editor.foreground": "#cccccc",
